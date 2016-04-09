@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/detail_bgColor"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/blue"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <LinearLayout
+        android:background="@color/write"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:text="检查更新"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:paddingRight="20dp"
+            android:layout_marginLeft="280dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/next"
+            android:layout_width="10dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:background="@color/write"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:text="通知"
+            android:textSize="15dp"
+            android:paddingLeft="20dp"
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:paddingRight="20dp"
+            android:layout_marginLeft="280dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/next"
+            android:layout_width="10dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+
+
+</LinearLayout>

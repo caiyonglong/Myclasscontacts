@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">班级小助手</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_update">同步云端数据</string>
+    <string name="action_import">一键导出通讯录</string>
+
+    <string name="empty">11\n月</string>
+    <string name="mon">20\n周一</string>
+    <string name="tue">21\n周二</string>
+    <string name="wen">22\n周三</string>
+    <string name="thu">23\n周四</string>
+    <string name="fri">24\n周五</string>
+    <string name="sta">25\n周六</string>
+    <string name="sun">26\n周日</string>
+    <string name="version_name" />
+    <string name="can_not_find_version_name" />
+</resources>
